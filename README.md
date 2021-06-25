@@ -1,2 +1,3 @@
 # test_data
-test data for class
+
+this folder is a demo
